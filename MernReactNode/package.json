@@ -15,7 +15,7 @@
     "mern",
     "react"
   ],
-  "author": "Vladilen Minin <vladilen.m@yandex.ru>",
+  "author": "Rysbekova Aelina",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
