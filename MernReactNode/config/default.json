@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "AelinaIT",
+  "mongoUri": "mongodb+srv://aelina:aelina@cluster0.nxsoeji.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  "baseUrl": "http://localhost:5000"
+}
